@@ -2,28 +2,28 @@
  
      {
         "channel": "streamiebr",
-        "command": "!pontos",
+        "command": "",
         "interval": 30
     },
     {
         "channel": "canaldobl3nd3r",
-        "command": "!pontos",
+        "command": "",
         "interval": 100
     },
     {
         "channel": "jonvlogs",
-        "command": "!pontos",
+        "command": "",
         "interval": 60
     },
     {
         "channel": "skipnholive",
         "command": "!sapocoins",
-        "interval": 30
+        "interval": 300
     },
     {
         "channel": "gaules",
         "command": "!points",
-        "interval": 30
+        "interval": 300
     },
     
     {
@@ -39,7 +39,7 @@
     {
         "channel": "4laNlol",
         "command": "!points",
-        "interval": 30
+        "interval": 60
     },
    {
         "channel": "Surskity",
@@ -60,5 +60,35 @@
         "channel": "matta",
         "command": "!lojinha",
         "interval": 90
+    },
+    {
+        "channel": "nobru",
+        "command": "!loja",
+        "interval": 90
+    },
+    {
+        "channel": "bianquinha182",
+        "command": "!pontos",
+        "interval": 90
+    },
+    {
+        "channel": "skipnho",
+        "command": "",
+        "interval": 90
+    },
+    {
+        "channel": "nittmv",
+        "command": "",
+        "interval": 90
+    },
+    {
+        "channel": "thomefn",
+        "command": "!pontos",
+        "interval": 1190
+    },
+    {
+        "channel": "paulanobre",
+        "command": "",
+        "interval": 100
     }
 ]
