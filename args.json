@@ -1,56 +1,23 @@
 [
- 
-     {
-        "channel": "streamiebr",
-        "command": "",
-        "interval": 30
-    },
-    {
-        "channel": "canaldobl3nd3r",
-        "command": "",
-        "interval": 100
-    },
-    {
-        "channel": "jonvlogs",
-        "command": "",
-        "interval": 60
-    },
     {
         "channel": "skipnholive",
         "command": "!sapocoins",
-        "interval": 300
+        "interval": 10
     },
-    {
-        "channel": "gaules",
-        "command": "!points",
-        "interval": 300
-    },
+   
     
     {
         "channel": "yetz",
         "command": "",
-        "interval": 10
+        "interval": 100
     },
     {
         "channel": "baiano",
         "command": "",
         "interval": 10
     },
-    {
-        "channel": "4laNlol",
-        "command": "!points",
-        "interval": 60
-    },
-   {
-        "channel": "Surskity",
-        "command": "!pontos",
-        "interval": 50
-    },
-   {
-        "channel": "jean_mago",
-        "command": "!loja",
-        "interval": 60
-    },
+   
+   
    {
         "channel": "hastad",
         "command": "!loja",
@@ -66,29 +33,16 @@
         "command": "!loja",
         "interval": 90
     },
-    {
-        "channel": "bianquinha182",
-        "command": "!pontos",
-        "interval": 90
-    },
+    
     {
         "channel": "skipnho",
         "command": "",
-        "interval": 90
+        "interval": 1
     },
-    {
-        "channel": "nittmv",
-        "command": "",
-        "interval": 90
-    },
+    
     {
         "channel": "thomefn",
         "command": "!pontos",
         "interval": 1190
-    },
-    {
-        "channel": "paulanobre",
-        "command": "",
-        "interval": 100
     }
 ]
