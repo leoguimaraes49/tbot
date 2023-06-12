@@ -12,7 +12,7 @@ Para obter o token, entre [neste serviço](https://twitchapps.com/tmi/) e autori
 ```
 npm install
 
-TWITCH_USERNAME = ArthurdeAbreu   # nome de usuário da sua conta.
+TWITCH_USERNAME =                    # nome de usuário da sua conta.
 TWITCH_TOKEN =                    # token de acesso obtido anteriormente.
 
 node bot.js
